@@ -1,5 +1,5 @@
 # .vimrc for C/C++
-![Imagem do README](jp.jpg)
+![Imagem do README](jp.png)
 
 ### Estrutura de Pastas
 
