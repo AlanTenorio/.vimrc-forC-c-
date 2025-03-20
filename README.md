@@ -10,6 +10,23 @@ A estrutura do projeto é a seguinte:
 │    └── .vimrc
 ├── coc-settings.json
 ├── vim.plug/
-│   ├── test_main.py
-│   └── test_utils.py
+│   ├── ale
+│   ├── indentLine
+│   ├── vim-airline
+│   ├── coc.nvim
+│   ├── indentpython.vim
+│   ├── vim-airline-themes
+│   ├── colorschemes
+│   ├── nerdcommenter
+│   ├── vim-devicons
+│   ├── ctrlp.vim
+│   ├── nerdtree
+│   ├── vim-nerdtree-syntax-highlight
+│   ├── dracula
+│   ├── nerdtree-git-plugin
+│   ├── vim-simple-emoji
+│   ├── gruvbox
+│   ├── syntastic
+│   └──vim-snippets
+│
 └── README.md
