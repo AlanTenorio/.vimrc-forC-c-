@@ -6,7 +6,8 @@ A estrutura do projeto é a seguinte:
 
 ```bash
 .vim/
-├── .vimrc
+├── autoload
+│    └── .vimrc
 ├── coc-settings.json
 ├── vim.plug/
 │   ├── test_main.py
