@@ -1,1 +1,1 @@
-# .vimrc-forC-c-
+# .vimrc for and C/C++
