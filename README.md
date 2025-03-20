@@ -1,4 +1,4 @@
-# .vimrc for and C/C++
+# .vimrc for C/C++
 
 ### Estrutura de Pastas
 
